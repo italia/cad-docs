@@ -5,17 +5,7 @@ Art. 68. Analisi comparativa delle soluzioni
 
 
 
-1\. Le pubbliche amministrazioni, nel rispetto della legge 7 agosto 1990, n. 241, e del decreto legislativo 12 febbraio 1993, n. 39, acquisiscono, secondo le procedure previste dall'ordinamento, programmi informatici a seguito di una valutazione comparativa di tipo tecnico ed economico tra le seguenti soluzioni disponibili sul mercato:
-
-   a\) sviluppo di programmi informatici per conto e a spese dell'amministrazione sulla scorta dei requisiti indicati dalla stessa amministrazione committente;
-
-   b\) riuso di programmi informatici, o parti di essi, sviluppati per conto e a spese della medesima o di altre amministrazioni;
-
-   c\) acquisizione di programmi informatici di tipo proprietario mediante ricorso a licenza d'uso;
-
-   d\) acquisizione di programmi informatici appartenenti alla categoria del software libero o a codice sorgente aperto;
-
-   e\) acquisizione mediante combinazione delle modalità di cui alle lettere da a) a d).
+1\. Le pubbliche amministrazioni acquisiscono programmi informatici o parti di essi a seguito di una valutazione comparativa di tipo tecnico ed economico tra le seguenti soluzioni disponibili sul mercato: a) software sviluppato per conto della pubblica amministrazione; b) riutilizzo di software o parti di esso sviluppati per conto della pubblica amministrazione; c) software libero o a codice sorgente aperto; d) software combinazione delle precedenti soluzioni. Solo quando la valutazione comparativa di tipo tecnico ed economico dimostri l'impossibilità di accedere a soluzioni open source o già sviluppate all'interno della pubblica amministrazione ad un prezzo inferiore, è consentita l'acquisizione di programmi informatici di tipo proprietario mediante ricorso a licenza d'uso. La valutazione di cui al presente comma è effettuata secondo le modalità e i criteri definiti dall'Agenzia per l'Italia Digitale, che, a richiesta di soggetti interessati, esprime altresì parere circa il loro rispetto.
 
 2\. Le pubbliche amministrazioni nella predisposizione o nell'acquisizione dei programmi informatici, adottano soluzioni informatiche, quando possibile modulari, basate sui sistemi funzionali resi noti ai sensi dell'articolo 70, che assicurino l'interoperabilità e la cooperazione applicativa e consentano la rappresentazione dei dati e documenti in più formati, di cui almeno uno di tipo aperto, salvo che ricorrano motivate ed eccezionali esigenze.
 
