@@ -5,7 +5,7 @@ Art. 5. Effettuazione dei pagamenti con modalità informatiche
 
 
 
-1\. Le pubbliche amministrazioni consentono, sul territorio nazionale, l'effettuazione dei pagamenti ad esse spettanti, a qualsiasi titolo dovuti, fatte salve le attività di riscossione dei tributi regolate da specifiche normative, con l'uso delle tecnologie dell'informazione e della comunicazione.A tal fine sono tenute:
+1\. Le pubbliche amministrazioni consentono, sul territorio nazionale, l'effettuazione dei pagamenti ad esse spettanti, a qualsiasi titolo dovuti, fatte salve le attività di riscossione dei tributi regolate da specifiche normative, con l'uso delle tecnologie dell'informazione e della comunicazione. A tal fine sono tenute:
 
    a\) a pubblicare nei propri siti istituzionali e sulle richieste di pagamento i codici identificativi dell'utenza bancaria sulla quale i privati possono effettuare i pagamenti mediante bonifico;
 
