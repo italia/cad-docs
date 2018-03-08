@@ -7,6 +7,8 @@ Art. 47. Trasmissione dei documenti attraverso la posta elettronica tra le pubbl
 
 1\. Le comunicazioni di documenti tra le pubbliche amministrazioni avvengono mediante l'utilizzo della posta elettronica o in cooperazione applicativa; esse sono valide ai fini del procedimento amministrativo una volta che ne sia verificata la provenienza.
 
+1-bis\. L'inosservanza della disposizione di cui al comma 1, ferma restando l'eventuale responsabilità per danno erariale, comporta responsabilità dirigenziale e responsabilità disciplinare.
+
 2\. Ai fini della verifica della provenienza le comunicazioni sono valide se:
 
    a\) sono sottoscritte con firma digitale o altro tipo di firma elettronica qualificata;

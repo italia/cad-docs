@@ -39,6 +39,8 @@ Art. 1. Definizioni
 
    n\) dato pubblico: il dato conoscibile da chiunque;
 
+   n-bis\) Riutilizzo: uso del dato di cui all'articolo 2, comma 1, lettera e), del decreto legislativo 24 gennaio 2006, n. 36;
+
    o\) disponibilità: la possibilità di accedere ai dati senza restrizioni non riconducibili a esplicite norme di legge;
 
    p\) documento informatico: la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti;

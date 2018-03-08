@@ -5,7 +5,7 @@ Art. 57-bis. Indice degli indirizzi delle pubbliche amministrazioni
 
 
 
-1\. Al fine di assicurare la trasparenza delle attività istituzionali è istituito l'indice degli indirizzi delle amministrazioni pubbliche, nel quale sono indicati, gli indirizzi di posta elettronica da utilizzare per le comunicazioni e per lo scambio di informazioni e per l'invio di documenti a tutti gli effetti di legge fra le amministrazioni e fra le amministrazioni ed i cittadini.
+1\. Al fine di assicurare la pubblicità dei riferimenti telematici delle pubbliche amministrazioni e dei gestori dei pubblici servizi è istituito l'indice degli indirizzi della pubblica amministrazione e dei gestori di pubblici servizi, nel quale sono indicati gli indirizzi di posta elettronica certificata da utilizzare per le comunicazioni e per lo scambio di informazioni e per l'invio di documenti a tutti gli effetti di legge tra le pubbliche amministrazioni, i gestori di pubblici servizi ed i privati.
 
 2\. La realizzazione e la gestione dell'indice sono affidate a DigitPA, che può utilizzare a tal fine elenchi e repertori già formati dalle amministrazioni pubbliche.
 

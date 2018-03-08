@@ -15,7 +15,7 @@ Art. 60. Base di dati di interesse nazionale
 
    a\) repertorio nazionale dei dati territoriali;
 
-   b\) indice nazionale delle anagrafi;
+   b\) anagrafe nazionale della popolazione residente;
 
    c\) banca dati nazionale dei contratti pubblici di cui all'articolo 62-bis;
 

@@ -12,5 +12,3 @@ Art. 6. Utilizzo della posta elettronica certificata
 2\. COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2010, N. 235.
 
 2-bis\. COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2010, N. 235.
-
-
