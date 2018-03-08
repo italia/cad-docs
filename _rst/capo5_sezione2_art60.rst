@@ -23,6 +23,8 @@ Art. 60. Base di dati di interesse nazionale
 
    e\) registro delle imprese;
 
-   f\) gli archivi automatizzati in materia di immigrazione e di asilo di cui all'articolo 2, comma 2, del decreto del Presidente della Repubblica 27 luglio 2004, n. 242.
+   f\) gli archivi automatizzati in materia di immigrazione e di asilo di cui all'articolo 2, comma 2, del decreto del Presidente della Repubblica 27 luglio 2004, n. 242;
+
+   f-bis\) Anagrafe nazionale degli assistiti (ANA).
 
 4\. Agli oneri finanziari di cui al presente articolo si provvede con il fondo di finanziamento per i progetti strategici del settore informatico di cui all'articolo 27, comma 2, della legge 16 gennaio 2003, n. 3.

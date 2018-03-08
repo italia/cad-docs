@@ -10,3 +10,4 @@ Sezione II. Fruibilità dei dati
    capo5_sezione2_art61.rst
    capo5_sezione2_art62.rst
    capo5_sezione2_art62-bis.rst
+   capo5_sezione2_art62-ter.rst
