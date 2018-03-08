@@ -5,7 +5,7 @@ Art. 71. Regole tecniche
 
 
 
-1\. Le regole tecniche previste nel presente codice sono dettate, con decreti del Presidente del Consiglio dei Ministri o del Ministro delegato per la pubblica amministrazione e l'innovazione, di concerto con i Ministri competenti, sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, ed il Garante per la protezione dei dati personali nelle materie di competenza, previa acquisizione obbligatoria del parere tecnico di DigitPA.
+1\. Le regole tecniche previste nel presente codice sono dettate, con decreti del Presidente del Consiglio dei Ministri o del Ministro delegato per la pubblica amministrazione e l'innovazione, di concerto con i Ministri competenti, sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, ed il Garante per la protezione dei dati personali nelle materie di competenza, previa acquisizione obbligatoria del parere tecnico di DigitPA. Le amministrazioni competenti, la Conferenza unificata e il Garante per la protezione dei dati personali rispondono entro trenta giorni dalla richiesta di parere. In mancanza di risposta nel termine indicato nel periodo precedente, il parere si intende interamente favorevole.
 
 1-bis\. COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2010, N. 235.
 
