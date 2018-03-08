@@ -9,4 +9,4 @@ Art. 3. Diritto all'uso delle tecnologie
 
 1-bis\. Il principio di cui al comma 1 si applica alle amministrazioni regionali e locali nei limiti delle risorse tecnologiche ed organizzative disponibili e nel rispetto della loro autonomia normativa.
 
-1-ter\. Le controversie concernenti l'esercizio del diritto di cui al comma 1 sono devolute alla giurisdizione esclusiva del giudice amministrativo.
+1-ter\. La tutela giurisdizionale davanti al giudice amministrativo è disciplinata dal codice del processo amministrativo.
