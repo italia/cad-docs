@@ -12,3 +12,4 @@ Sezione I. Dati delle pubbliche amministrazioni
    capo5_sezione1_art55.rst
    capo5_sezione1_art56.rst
    capo5_sezione1_art57.rst
+   capo5_sezione1_art57-bis.rst
