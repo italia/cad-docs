@@ -15,6 +15,6 @@ Art. 16. Competenze del presidente del consiglio dei ministri in materia di inno
 
    d\) promuove l'informazione circa le iniziative per la diffusione delle nuove tecnologie;
 
-   e\) detta norme tecniche ai sensi dell'articolo, 71 e criteri in tema di pianificazione, progettazione, realizzazione, gestione, mantenimento dei sistemi informativi automatizzati delle pubbliche amministrazioni centrali e delle loro interconnessioni, nonché della loro qualità e relativi aspetti organizzativi e della loro sicurezza.
+   e\)  criteri in tema di pianificazione, progettazione, realizzazione, gestione, mantenimento dei sistemi informativi automatizzati delle pubbliche amministrazioni centrali e delle loro interconnessioni, nonché della loro qualità e relativi aspetti organizzativi e della loro sicurezza.
 
 2\. Il Presidente del Consiglio dei Ministri o il Ministro delegato per l'innovazione e le tecnologie riferisce annualmente al Parlamento sullo stato di attuazione del presente codice.

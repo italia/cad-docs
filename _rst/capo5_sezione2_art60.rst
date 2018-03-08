@@ -5,13 +5,13 @@ Art. 60. Base di dati di interesse nazionale
 
 
 
-1\. Si definisce base di dati di interesse nazionale l'insieme delle informazioni raccolte e gestite digitalmente dalle pubbliche amministrazioni, omogenee per tipologia e contenuto e la cui conoscenza è utilizzabile dalle pubbliche amministrazioni, anche per fini statistici, per l'esercizio delle proprie funzioni e nel rispetto delle competenze e delle normative vigenti.
+1\. Si definisce base di dati di interesse nazionale l'insieme delle informazioni raccolte e gestite digitalmente dalle pubbliche amministrazioni, omogenee per tipologia e contenuto e la cui conoscenza è rilevante per lo svolgimento delle funzioni istituzionali delle altre pubbliche amministrazioni, anche solo per fini statistici, nel rispetto delle competenze e delle normative vigenti e possiedono i requisiti di cui al comma 2.
 
-2\. Ferme le competenze di ciascuna pubblica amministrazione, le basi di dati di interesse nazionale costituiscono, per ciascuna tipologia di dati, un sistema informativo unitario che tiene conto dei diversi livelli istituzionali e territoriali e che garantisce l'allineamento delle informazioni e l'accesso alle medesime da parte delle pubbliche amministrazioni interessate. La realizzazione di tali sistemi informativi e le modalità di aggiornamento sono attuate secondo le regole tecniche sul sistema pubblico di connettività di cui all'articolo 73 e secondo le vigenti regole del Sistema statistico nazionale di cui al decreto legislativo 6 settembre 1989, n. 322, e successive modificazioni.
+2\. Ferme le competenze di ciascuna pubblica amministrazione, le basi di dati di interesse nazionale costituiscono, per ciascuna tipologia di dati, un sistema informativo unitario che tiene conto dei diversi livelli istituzionali e territoriali e che garantisce l'allineamento delle informazioni e l'accesso alle medesime da parte delle pubbliche amministrazioni interessate. Tali sistemi informativi possiedono le caratteristiche minime di sicurezza, accessibilità e interoperabilità e sono realizzati e aggiornati secondo le regole tecniche di cui all'articolo 71 e secondo le vigenti regole del Sistema statistico nazionale di cui al decreto legislativo 6 settembre 1989, n. 322, e successive modificazioni.
 
-3\. Le basi di dati di interesse nazionale sono individuate con decreto del Presidente del Consiglio dei Ministri, su proposta del Presidente del Consiglio dei Ministri o del Ministro delegato per l'innovazione e le tecnologie, di concerto con i Ministri di volta in volta interessati, d'intesa con la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, nelle materie di competenza e sentiti il Garante per la protezione dei dati personali e l'Istituto nazionale di statistica. Con il medesimo decreto sono altresì individuate le strutture responsabili della gestione operativa di ciascuna base di dati e le caratteristiche tecniche del sistema informativo di cui al comma 2.
+3\. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.
 
-3-bis\. In sede di prima applicazione e fino all'adozione del decreto di cui al comma 3, sono individuate le seguenti basi di dati di interesse nazionale:
+3-bis\. In sede di prima applicazione, sono individuate le seguenti basi di dati di interesse nazionale:
 
    a\) repertorio nazionale dei dati territoriali;
 
@@ -28,5 +28,7 @@ Art. 60. Base di dati di interesse nazionale
    f-bis\) Anagrafe nazionale degli assistiti (ANA);
 
    f-ter\) anagrafe delle aziende agricole di cui all'articolo 1, comma 1, del regolamento di cui al decreto del Presidente della Repubblica 1º dicembre 1999, n. 503.
+
+3-ter\. L'AgID pubblica sul proprio sito istituzionale l'elenco delle basi di dati di interesse nazionale realizzate ai sensi del presente articolo.
 
 4\. Agli oneri finanziari di cui al presente articolo si provvede con il fondo di finanziamento per i progetti strategici del settore informatico di cui all'articolo 27, comma 2, della legge 16 gennaio 2003, n. 3.

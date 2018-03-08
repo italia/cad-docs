@@ -5,14 +5,16 @@ Art. 18. Conferenza permanente per l'innovazione tecnologica
 
 
 
-1\. È istituita la Conferenza permanente per l'innovazione tecnologica con funzioni di consulenza al Presidente del Consiglio dei Ministri, o al Ministro delegato per l'innovazione e le tecnologie, in materia di sviluppo ed attuazione dell'innovazione tecnologica nelle amministrazioni dello Stato.
+1\. È istituita presso la Presidenza del Consiglio dei ministri la Conferenza permanente per l'innovazione tecnologica, con il compito di supportare il Presidente del Consiglio o il Ministro delegato nell'elaborazione delle linee strategiche di indirizzo in materia di innovazione e digitalizzazione.
 
-2\. La Conferenza permanente per l'innovazione tecnologica è presieduta da un rappresentante della Presidenza del Consiglio dei Ministri designato dal Presidente del Consiglio dei Ministri o dal Ministro delegato per l'innovazione e le tecnologie; ne fanno parte il Presidente del DigitPA (d'ora in poi DigitPA), i componenti del DigitPA, il Capo del Dipartimento per l'innovazione e le tecnologie, nonché i responsabili delle funzioni di cui all'articolo 17.
+2\. La Conferenza è nominata con decreto del Presidente del Consiglio dei ministri e composta da quattro esperti in materia di innovazione e digitalizzazione, di cui uno con funzione di Presidente e uno designato dalle regioni, e dal Direttore generale dell'AgID.
 
-3\. La Conferenza permanente per l'innovazione tecnologica si riunisce con cadenza almeno semestrale per la verifica dello stato di attuazione dei programmi in materia di innovazione tecnologica e del piano triennale di cui all'articolo 9 del decreto legislativo 12 febbraio 1993, n. 39.
+3\. La Conferenza opera anche attraverso la consultazione telematica di rappresentanti di ministeri ed enti pubblici e dei portatori di interessi, i quali costituiscono la Consulta permanente dell'innovazione, che opera come sistema aperto di partecipazione.
 
-4\. Il Presidente del Consiglio dei Ministri, o il Ministro delegato per l'innovazione e le tecnologie, provvede, con proprio decreto, a disciplinare il funzionamento della Conferenza permanente per l'innovazione tecnologica.
+3-bis\. Alla Consulta permanente dell'innovazione possono essere sottoposte proposte di norme e di atti amministrativi suscettibili di incidere sulle materie disciplinate dal presente codice.
 
-5\. La Conferenza permanente per l'innovazione tecnologica può sentire le organizzazioni produttive e di categoria.
+4\. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179;
+
+5\. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179;
 
 6\. La Conferenza permanente per l'innovazione tecnologica opera senza rimborsi spese o compensi per i partecipanti a qualsiasi titolo dovuti, compreso il trattamento economico di missione; dal presente articolo non devono derivare nuovi o maggiori oneri per il bilancio dello Stato.
