@@ -9,6 +9,8 @@ Art. 2. Finalità e ambito di applicazione
 
 2\. Le disposizioni del presente codice si applicano alle pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, salvo che sia diversamente stabilito, nel rispetto della loro autonomia organizzativa e comunque nel rispetto del riparto di competenza di cui all'articolo 117 della Costituzione.
 
+2-bis\. Tutte le disposizioni previste dal presente codice per le pubbliche amministrazioni si applicano, ove possibile tecnicamente e a condizione che non si producano nuovi o maggiori oneri per la finanza pubblica ovvero, direttamente o indirettamente, aumenti di costi a carico degli utenti, anche ai soggetti privati preposti all'esercizio di attività amministrative.
+
 3\. Le disposizioni di cui al capo II concernenti i documenti informatici, le firme elettroniche, i pagamenti informatici, i libri e le scritture, le disposizioni di cui al capo III, relative alla formazione, gestione, alla conservazione, nonché le disposizioni di cui al capo IV relative alla trasmissione dei documenti informatici si applicano anche ai privati ai sensi dell'articolo 3 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.
 
 4\. Le disposizioni di cui al capo V, concernenti l'accesso ai documenti informatici, e la fruibilità delle informazioni digitali si applicano anche ai gestori di servizi pubblici ed agli organismi di diritto pubblico.

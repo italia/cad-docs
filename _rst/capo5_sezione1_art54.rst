@@ -25,6 +25,10 @@ Art. 54. Contenuto dei siti delle pubbliche amministrazioni
 
 2-bis\. Il principio di cui al comma 1 si applica alle amministrazioni regionali e locali nei limiti delle risorse tecnologiche e organizzative disponibili e nel rispetto della loro autonomia normativa.
 
+2-ter\. Entro il 30 giugno 2009, le amministrazioni pubbliche che già dispongono di propri siti sono tenute a pubblicare nella pagina iniziale del loro sito un indirizzo di posta elettronica certificata a cui il cittadino possa rivolgersi per qualsiasi richiesta ai sensi del presente codice. Le amministrazioni devono altresì assicurare un servizio che renda noti al pubblico i tempi di risposta, le modalità di lavorazione delle pratiche e i servizi disponibili.
+
+2-quater\. Entro il 31 dicembre 2009 le amministrazioni pubbliche che già dispongono di propri siti devono pubblicare il registro dei processi automatizzati rivolti al pubblico. Tali processi devono essere dotati di appositi strumenti per la verifica a distanza da parte del cittadino dell'avanzamento delle pratiche.
+
 3\. I dati pubblici contenuti nei siti delle pubbliche amministrazioni sono fruibili in rete gratuitamente e senza necessità di autenticazione informatica.
 
 4\. Le pubbliche amministrazioni garantiscono che le informazioni contenute sui siti siano conformi e corrispondenti alle informazioni contenute nei provvedimenti amministrativi originali dei quali si fornisce comunicazione tramite il sito.
