@@ -15,7 +15,7 @@ Art. 65. Istanze e dichiarazioni presentate alle pubbliche amministrazioni per v
 
    c-bis\) ovvero quando l'autore è identificato dal sistema informatico attraverso le credenziali di accesso relative all'utenza personale di posta elettronica certificata di cui all'articolo 16-bis del decreto-legge 29 novembre 2008, n. 185, convertito con modificazioni, dalla legge 28 gennaio 2009, n. 2.
 
-2\. Le istanze e le dichiarazioni inviate o compilate su sito secondo le modalità previste dal comma 1 sono equivalenti alle istanze e alle dichiarazioni sottoscritte con firma autografa apposta in presenza del dipendente addetto al procedimento; resta salva la facoltà della pubblica amministrazione di stabilire i casi in cui è necessaria la sottoscrizione mediante la firma digitale.
+2\. Le istanze e le dichiarazioni inviate o compilate su sito secondo le modalità previste dal comma 1 sono equivalenti alle istanze e alle dichiarazioni sottoscritte con firma autografa apposta in presenza del dipendente addetto al procedimento; resta salva la facoltà della pubblica amministrazione di stabilire i casi in cui è necessaria la sottoscrizione mediante la firma digitale .
 
 3\. Dalla data di cui all'articolo 64, comma 3, non è più consentito l'invio di istanze e dichiarazioni con le modalità di cui al comma 1, lettera c).
 
