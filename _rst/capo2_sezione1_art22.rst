@@ -1,7 +1,7 @@
 .. _art22:
 
-Art. 22. Documenti informatici delle pubbliche amministrazioni
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Art. 22. Documenti informatici originali e copie. Formazione e conservazione
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 

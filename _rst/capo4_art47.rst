@@ -17,7 +17,7 @@ Art. 47. Trasmissione dei documenti attraverso la posta elettronica tra le pubbl
 
    d\) ovvero trasmesse attraverso sistemi di posta elettronica certificata di cui al decreto del Presidente della Repubblica 11 febbraio 2005, n. 68.
 
-3\. Entro ventiquattro mesi dalla data di entrata in vigore del presente codice le pubbliche amministrazioni centrali provvedono a:
+3\. Entro otto mesi dalla data di entrata in vigore del presente codice le pubbliche amministrazioni centrali provvedono a:
 
    a\) istituire almeno una casella di posta elettronica istituzionale ed una casella di posta elettronica certificata ai sensi del decreto del Presidente della Repubblica 11 febbraio 2005, n. 68, per ciascun registro di protocollo;
 

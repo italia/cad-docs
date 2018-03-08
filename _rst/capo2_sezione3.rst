@@ -1,5 +1,5 @@
-Sezione III. Contratti, pagamenti, libri e scritture
-----------------------------------------------------
+Sezione III. Pagamenti, libri e scritture
+-----------------------------------------
 
 
 .. toctree::

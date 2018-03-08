@@ -1,10 +1,8 @@
-Capo VIII. Disposizioni transitorie finali e abrogazioni
-========================================================
+Capo VIII. Sistema pubblico di connettività e rete internazionale della pubblica amministrazione
+================================================================================================
 
 .. toctree::
 
-   capo8_art72.rst
-   capo8_art73.rst
-   capo8_art74.rst
-   capo8_art75.rst
-   capo8_art76.rst
+   capo8_sezione1.rst
+   capo8_sezione2.rst
+   capo8_sezione3.rst

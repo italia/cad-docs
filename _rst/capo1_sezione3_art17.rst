@@ -26,3 +26,5 @@ Art. 17. Strutture per l'organizzazione, l'innovazione e le tecnologie
    i\) promozione delle iniziative attinenti l'attuazione delle direttive impartite dal Presidente del Consiglio dei Ministri o dal Ministro delegato per l'innovazione e le tecnologie;
 
    j\) pianificazione e coordinamento del processo di diffusione, all'interno dell'amministrazione, dei sistemi di posta elettronica, protocollo informatico, firma digitale e mandato informatico, e delle norme in materia di sicurezza, accessibilità e fruibilità.
+
+1-bis\. Ciascun Ministero istituisce un unico centro di competenza, salva la facoltà delle Agenzie di istituire un proprio centro.

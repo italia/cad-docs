@@ -11,4 +11,4 @@ Art. 10. Sportelli per le attività produttive
 
 3\. Al fine di promuovere la massima efficacia ed efficienza dello sportello unico, anche attraverso l'adozione di modalità omogenee di relazione con gli utenti nell'intero territorio nazionale, lo Stato, d'intesa con la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, individua uno o più modelli tecnico-organizzativi di riferimento, tenendo presenti le migliori esperienze realizzate che garantiscano l'interoperabilità delle soluzioni individuate.
 
-4\. Lo Stato realizza, nell'ambito di quanto previsto dal sistema pubblico di connettività di cui al decreto legislativo 28 febbraio 2005, n. 42, un sistema informatizzato per le imprese relativo ai procedimenti di competenza delle amministrazioni centrali anche ai fini di quanto previsto all'articolo 11.
+4\. Lo Stato realizza, nell'ambito di quanto previsto dal sistema pubblico di connettività di cui al presente decreto,, un sistema informatizzato per le imprese relativo ai procedimenti di competenza delle amministrazioni centrali anche ai fini di quanto previsto all'articolo 11.
