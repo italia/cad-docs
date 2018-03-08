@@ -13,6 +13,8 @@ Art. 15. Digitalizzazione e riorganizzazione
 
 2-ter\. Le pubbliche amministrazioni, quantificano annualmente, ai sensi dell'articolo 27, del decreto legislativo 27 ottobre 2009, n.150, i risparmi effettivamente conseguiti in attuazione delle disposizioni di cui ai commi 1 e 2. Tali risparmi sono utilizzati, per due terzi secondo quanto previsto dall'articolo 27, comma 1, del citato decreto legislativo n. 150 del 2009 e in misura pari ad un terzo per il finanziamento di ulteriori progetti di innovazione.
 
+2-quater\. AgID individua, nell'ambito delle Linee guida, criteri e modalità di attuazione dei commi 2-bis e 2-ter, prevedendo che ogni pubblica amministrazione dia conto annualmente delle attività previste dai predetti commi nella relazione sulla gestione di cui all'articolo 11, comma 6, del decreto legislativo 23 giugno 2011, n. 118.
+
 3\. La digitalizzazione dell'azione amministrativa è attuata dalle pubbliche amministrazioni con modalità idonee a garantire la partecipazione dell'Italia alla costruzione di reti transeuropee per lo scambio elettronico di dati e servizi fra le amministrazioni dei Paesi membri dell'Unione europea.
 
 3-bis\. COMMA ABROGATO DAL D.L. 6 LUGLIO 2012, N. 95, CONVERTITO CON MODIFICAZIONI DALLA L. 7 AGOSTO 2012, N. 135.

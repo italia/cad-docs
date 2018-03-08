@@ -5,6 +5,7 @@ Capo III. Formazione, gestione e conservazione dei documenti informatici
 
    capo3_art40.rst
    capo3_art40-bis.rst
+   capo3_art40-ter.rst
    capo3_art41.rst
    capo3_art42.rst
    capo3_art43.rst

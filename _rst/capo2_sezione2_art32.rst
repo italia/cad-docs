@@ -1,7 +1,7 @@
 .. _art32:
 
-Art. 32. Obblighi del titolare e del prestatore di servizi di firma elettronica qualificata
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Art. 32. Obblighi del titolare di firma elettronica qualificata e del prestatore di servizi di firma elettronica qualificata
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 
@@ -9,7 +9,7 @@ Art. 32. Obblighi del titolare e del prestatore di servizi di firma elettronica 
 
 2\. Il prestatore di servizi di firma elettronica qualificata è tenuto ad adottare tutte le misure organizzative e tecniche idonee ad evitare danno a terzi.
 
-3\. Il prestatore di servizi di firma elettronica qualificata che rilascia, ai sensi dell'articolo 19, certificati qualificati deve comunque:
+3\. Il prestatore di servizi di firma elettronica qualificata che rilascia certificati qualificati deve comunque:
 
    a\) provvedere con certezza alla identificazione della persona che fa richiesta della certificazione;
 
@@ -23,7 +23,7 @@ Art. 32. Obblighi del titolare e del prestatore di servizi di firma elettronica 
 
    f\) LETTERA SOPPRESSA DAL D.LGS. 30 DICEMBRE 2010, N. 235;
 
-   g\) procedere alla tempestiva pubblicazione della revoca e della sospensione del certificato elettronico in caso di richiesta da parte del titolare o del terzo dal quale derivino i poteri del titolare medesimo, di perdita del possesso o della compromissione del dispositivo di firma o degli strumenti di autenticazione informatica per l'utilizzo del dispositivo di firma,, di provvedimento dell'autorità, di acquisizione della conoscenza di cause limitative della capacità del titolare, di sospetti abusi o falsificazioni, secondo quanto previsto dalle regole tecniche di cui all'articolo 71;
+   g\) procedere alla tempestiva pubblicazione della revoca e della sospensione del certificato elettronico in caso di richiesta da parte del titolare di firma elettronica qualificata o del terzo dal quale derivino i poteri del titolare di firma elettronica qualificata medesimo, di perdita del possesso o della compromissione del dispositivo di firma o degli strumenti di autenticazione informatica per l'utilizzo del dispositivo di firma, di provvedimento dell'autorità, di acquisizione della conoscenza di cause limitative della capacità del titolare di firma elettronica qualificata, di sospetti abusi o falsificazioni, secondo quanto previsto dalle regole tecniche di cui all'articolo 71;
 
    h\) garantire un servizio di revoca e sospensione dei certificati elettronici sicuro e tempestivo nonché garantire il funzionamento efficiente, puntuale e sicuro degli elenchi dei certificati di firma emessi, sospesi e revocati;
 

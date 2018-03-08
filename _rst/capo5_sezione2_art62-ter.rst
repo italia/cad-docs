@@ -9,7 +9,7 @@ Art. 62-ter. Anagrafe nazionale degli assistiti
 
 2\. L'ANA, realizzata dal Ministero dell'economia e delle finanze, in accordo con il Ministero della salute in relazione alle specifiche esigenze di monitoraggio dei livelli essenziali di assistenza (LEA), nel rispetto delle previsioni di cui al comma 5 dell'articolo 62 del presente Codice, subentra, per tutte le finalità previste dalla normativa vigente, alle anagrafi e agli elenchi degli assistiti tenuti dalle singole aziende sanitarie locali, ai sensi dell'articolo 7 della legge 7 agosto 1982, n. 526, che mantengono la titolarità dei dati di propria competenza e ne assicurano l'aggiornamento.
 
-3\. L'ANA assicura alla singola azienda sanitaria locale la disponibilità dei dati e degli strumenti per lo svolgimento delle funzioni di propria competenza e garantisce l'accesso ai dati in essa contenuti da parte delle pubbliche amministrazioni per le relative finalità istituzionali, secondo le modalità di cui all'articolo 58, comma 2, del presente Codice.
+3\. L'ANA assicura alla singola azienda sanitaria locale la disponibilità dei dati e degli strumenti per lo svolgimento delle funzioni di propria competenza e garantisce l'accesso ai dati in essa contenuti da parte delle pubbliche amministrazioni per le relative finalità istituzionali, secondo le modalità di cui all'articolo 60, comma 2-bis, del presente Codice.
 
 4\. Con il subentro dell'ANA, l'azienda sanitaria locale cessa di fornire ai cittadini il libretto sanitario personale previsto dall'articolo 27 della legge 23 dicembre 1978, n. 833. È facoltà dei cittadini di accedere in rete ai propri dati contenuti nell'ANA, secondo le modalità di cui al comma 1 dell'articolo 6 del presente Codice, ovvero di richiedere presso l'azienda sanitaria locale competente copia cartacea degli stessi.
 
@@ -19,7 +19,7 @@ Art. 62-ter. Anagrafe nazionale degli assistiti
 
 7\. Entro il 30 giugno 2014, con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro della salute e del Ministro dell'economia e delle finanze, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono stabiliti:
 
-   a\) i contenuti dell'ANA, tra i quali devono essere inclusi il medico di medicina generale, il codice esenzione e il domicilio;
+   a\) i contenuti dell'ANA, tra i quali devono essere inclusi le scelte del medico di medicina generale e del pediatra di libera scelta, il codice esenzione e il domicilio;
 
    b\) il piano per il graduale subentro dell'ANA alle anagrafi e agli elenchi degli assistiti tenuti dalle singole aziende sanitarie locali, da completare entro il 30 giugno 2015;
 

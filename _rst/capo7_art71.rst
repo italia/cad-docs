@@ -5,7 +5,7 @@ Art. 71. Regole tecniche
 
 
 
-1\. Con decreto del Ministro delegato per la semplificazione e la pubblica amministrazione, su proposta dell'AgID, di concerto con il Ministro della giustizia e con i Ministri competenti, sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e il Garante per la protezione dei dati personali nelle materie di competenza, sono adottate le regole tecniche per l'attuazione del presente Codice.
+1\. L'AgID, previa consultazione pubblica da svolgersi entro il termine di trenta giorni, sentiti le amministrazioni competenti e il Garante per la protezione dei dati personali nelle materie di competenza, nonché acquisito il parere della Conferenza unificata, adotta Linee guida contenenti le regole tecniche e di indirizzo per l'attuazione del presente Codice. Le Linee guida divengono efficaci dopo la loro pubblicazione nell'apposita area del sito Internet istituzionale dell'AgID e di essa ne è data notizia nella Gazzetta Ufficiale della Repubblica italiana. Le Linee guida sono aggiornate o modificate con la procedura di cui al primo periodo.
 
 1-bis\. COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2010, N. 235.
 

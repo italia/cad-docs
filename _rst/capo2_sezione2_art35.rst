@@ -13,7 +13,7 @@ Art. 35. Dispositivi sicuri e procedure per la generazione della firma qualifica
 
    c\) possa essere sufficientemente protetta dal titolare dall'uso da parte di terzi. 1-bis) Fermo restando quanto previsto dal comma 1, i dispositivi per la creazione di una firma elettronica qualificata o di un sigillo elettronico soddisfano i requisiti di cui all'Allegato II del Regolamento eIDAS.
 
-2\. I dispositivi sicuri e le procedure di cui al comma 1 devono garantire l'integrità dei documenti informatici a cui la firma si riferisce. I documenti informatici devono essere presentati al titolare, prima dell'apposizione della firma, chiaramente e senza ambiguità, e si deve richiedere conferma della volontà di generare la firma secondo quanto previsto dalle regole tecniche di cui all'articolo 71.
+2\. I dispositivi sicuri e le procedure di cui al comma 1 devono garantire l'integrità dei documenti informatici a cui la firma si riferisce. I documenti informatici devono essere presentati al titolare di firma elettronica, prima dell'apposizione della firma, chiaramente e senza ambiguità, e si deve richiedere conferma della volontà di generare la firma secondo quanto previsto dalle regole tecniche di cui all'articolo 71.
 
 3\. Il secondo periodo del comma 2 non si applica alle firme apposte con procedura automatica. La firma con procedura automatica è valida se apposta previo consenso del titolare all'adozione della procedura medesima.
 

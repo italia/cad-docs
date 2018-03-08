@@ -12,6 +12,8 @@ Sezione II. Diritti dei cittadini e delle imprese
    capo1_sezione2_art6.rst
    capo1_sezione2_art6-bis.rst
    capo1_sezione2_art6-ter.rst
+   capo1_sezione2_art6-quater.rst
+   capo1_sezione2_art6-quinquies.rst
    capo1_sezione2_art7.rst
    capo1_sezione2_art8.rst
    capo1_sezione2_art8-bis.rst

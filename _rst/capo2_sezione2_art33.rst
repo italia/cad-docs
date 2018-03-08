@@ -1,8 +1,5 @@
+
 .. _art33:
 
-Art. 33. Uso di pseudonimi
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-
-1\. In luogo del nome del titolare il certificatore può riportare sul certificato elettronico uno pseudonimo, qualificandolo come tale. Se il certificato è qualificato, il certificatore ha l'obbligo di conservare le informazioni relative alla reale identità del titolare per almeno venti anni decorrenti dall'emissione del certificato stesso.
+Art. 33. Articolo abrogato dal D.Lgs. 13 dicembre 2017, n. 217
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

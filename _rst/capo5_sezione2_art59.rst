@@ -13,7 +13,7 @@ Art. 59. Dati territoriali
 
 4\. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.
 
-5\. Con decreto adottato ai sensi dell'articolo 71 sono adottate, anche su proposta delle amministrazioni competenti, le regole tecniche per la definizione e l'aggiornamento del contenuto del Repertorio nazionale dei dati territoriali di cui al comma 3 nonché per la formazione, la documentazione, lo scambio e il riutilizzo dei dati territoriali detenuti dalle amministrazioni stesse.
+5\. Ai sensi dell'articolo 71 sono adottate, anche su proposta delle amministrazioni competenti, le regole tecniche per la definizione e l'aggiornamento del contenuto del Repertorio nazionale dei dati territoriali di cui al comma 3 nonché per la formazione, la documentazione, lo scambio e il riutilizzo dei dati territoriali detenuti dalle amministrazioni stesse.
 
 6\. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.
 

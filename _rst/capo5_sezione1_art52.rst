@@ -1,23 +1,23 @@
 .. _art52:
 
-Art. 52. Accesso telematico e riutilizzo dei dati delle pubbliche amministrazioni
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Art. 52. Accesso telematico e riutilizzo dei dati
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 
 1\. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.
 
-2\. I dati e i documenti che le amministrazioni titolari pubblicano, con qualsiasi modalità, senza l'espressa adozione di una licenza di cui all'articolo 2, comma 1, lettera h), del decreto legislativo 24 gennaio 2006, n. 36, si intendono rilasciati come dati di tipo aperto ai sensi all'articolo 68, comma 3, del presente Codice, ad eccezione dei casi in cui la pubblicazione riguardi dati personali del presente Codice. L'eventuale adozione di una licenza di cui al citato articolo 2, comma 1, lettera h), è motivata ai sensi delle linee guida nazionali di cui al comma 7.
+2\. I dati e i documenti che i soggetti di cui all'articolo 2, comma 2, pubblicano, con qualsiasi modalità, senza l'espressa adozione di una licenza di cui all'articolo 2, comma 1, lettera h), del decreto legislativo 24 gennaio 2006, n. 36, si intendono rilasciati come dati di tipo aperto ai sensi all'articolo 1, comma 1, lettere l-bis) e l-ter), del presente Codice, ad eccezione dei casi in cui la pubblicazione riguardi dati personali del presente Codice. PERIODO SOPPRESSO DAL D.LGS. 13 DICEMBRE 2017, N. 217.
 
-3\. Nella definizione dei capitolati o degli schemi dei contratti di appalto relativi a prodotti e servizi che comportino la raccolta e la gestione di dati pubblici, le pubbliche amministrazioni di cui all'articolo 2, comma 2, prevedono clausole idonee a consentire l'accesso telematico e il riutilizzo, da parte di persone fisiche e giuridiche, di tali dati, dei metadati, degli schemi delle strutture di dati e delle relative banche dati.
+3\. Nella definizione dei capitolati o degli schemi dei contratti di appalto relativi a prodotti e servizi che comportino la formazione, la raccolta e la gestione di dati, i soggetti di cui all'articolo 2, comma 2, prevedono clausole idonee a consentirne l'utilizzazione in conformità a quanto previsto dall'articolo 50.
 
-4\. Le attività volte a garantire l'accesso telematico e il riutilizzo dei dati delle pubbliche amministrazioni rientrano tra i parametri di valutazione della performance dirigenziale ai sensi dell'articolo 11, comma 9, del decreto legislativo 27 ottobre 2009, n. 150.
+4\. Le attività volte a garantire l'accesso telematico e il riutilizzo dei dati delle pubbliche amministrazioni rientrano tra i parametri di valutazione della performance dirigenziale.
 
-5\. L'Agenzia per l'Italia digitale promuove le politiche di valorizzazione del patrimonio informativo pubblico nazionale e attua le disposizioni di cui al capo V del presente Codice.
+5\. COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217.
 
-6\. Entro il mese di febbraio di ogni anno l'Agenzia trasmette al Presidente del Consiglio dei Ministri o al Ministro delegato per l'innovazione tecnologica, che li approva entro il mese successivo, un'Agenda nazionale in cui definisce contenuti e gli obiettivi delle politiche di valorizzazione del patrimonio informativo pubblico, nonché azioni finalizzate al riutilizzo dei dati pubblici e un rapporto annuale sullo stato del processo di valorizzazione in Italia; tale rapporto è pubblicato in formato aperto sul sito istituzionale della Presidenza del Consiglio dei Ministri.
+6\. COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217.
 
-7\. L'Agenzia definisce e aggiorna annualmente le linee guida nazionali che individuano gli standard tecnici, compresa la determinazione delle ontologie dei servizi e dei dati, le procedure e le modalità di attuazione delle disposizioni del Capo V del presente Codice con l'obiettivo di rendere il processo omogeneo a livello nazionale, efficiente ed efficace. Le pubbliche amministrazioni di cui all'articolo 2, comma 2, del presente Codice si uniformano alle suddette linee guida.
+7\. COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217.
 
 8\. COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.
 
