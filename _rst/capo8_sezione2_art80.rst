@@ -7,7 +7,7 @@ Art. 80. Composizione della commissione di coordinamento del sistema pubblico di
 
 1\. La Commissione è formata da diciassette componenti incluso il Presidente di cui al comma 2, scelti tra persone di comprovata professionalità ed esperienza nel settore, nominati con decreto del Presidente del Consiglio dei Ministri: otto componenti sono nominati in rappresentanza delle amministrazioni statali previa deliberazione del Consiglio dei Ministri, sette dei quali su proposta del Ministro per l'innovazione e le tecnologie ed uno su proposta del Ministro per la funzione pubblica; i restanti otto sono nominati su designazione della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281. Uno dei sette componenti proposti dal Ministro per l'innovazione e le tecnologie è nominato in rappresentanza della Presidenza del Consiglio dei Ministri. Quando esamina questioni di interesse della rete internazionale della pubblica amministrazione la Commissione è integrata da un rappresentante del Ministero degli affari esteri, qualora non ne faccia già parte.
 
-2\. Il Presidente del DigitPA è componente di diritto e presiede la Commissione. Gli altri componenti della Commissione restano in carica per un biennio e l'incarico è rinnovabile.
+2\. Il Presidente della Commissione è il Commissario del Governo per l'attuazione dell'agenda digitale o, su sua delega, il Direttore dell'Agenzia digitale. Il Presidente e gli altri componenti della Commissione restano in carica per un triennio e l'incarico è rinnovabile.
 
 3\. La Commissione è convocata dal Presidente e si riunisce almeno quattro volte l'anno.
 
