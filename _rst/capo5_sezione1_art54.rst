@@ -17,19 +17,23 @@ Art. 54. Contenuto dei siti delle pubbliche amministrazioni
 
    e\) le pubblicazioni di cui all'articolo 26 della legge 7 agosto 1990, n. 241, nonché i messaggi di informazione e di comunicazione previsti dalla legge 7 giugno 2000, n. 150;
 
-   f\) l'elenco di tutti i bandi di gara e di concorso;
+   f\) l'elenco di tutti i bandi di gara;
 
-   g\) l'elenco dei servizi forniti in rete già disponibili e dei servizi di futura attivazione, indicando i tempi previsti per l'attivazione medesima.
+   g\) l'elenco dei servizi forniti in rete già disponibili e dei servizi di futura attivazione, indicando i tempi previsti per l'attivazione medesima;
 
-2\. Le amministrazioni centrali che già dispongono di propri siti realizzano quanto previsto dal comma 1 entro ventiquattro mesi dalla data di entrata in vigore del presente codice.
+   g-bis\) i bandi di concorso.
 
-2-bis\. Il principio di cui al comma 1 si applica alle amministrazioni regionali e locali nei limiti delle risorse tecnologiche e organizzative disponibili e nel rispetto della loro autonomia normativa.
+1-bis\. Le pubbliche amministrazioni centrali comunicano in via telematica alla Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica i dati di cui alle lettere b), c) , g) e g-bis) del comma 1, secondo i criteri e le modalità di trasmissione e aggiornamento individuati con circolare del Ministro per la pubblica amministrazione e l'innovazione. I dati di cui al periodo precedente sono pubblicati sul sito istituzionale del Dipartimento della funzione pubblica. La mancata comunicazione o aggiornamento dei dati è comunque rilevante ai fini della misurazione e valutazione della performance individuale dei dirigenti.
 
-2-ter\. Entro il 30 giugno 2009, le amministrazioni pubbliche che già dispongono di propri siti sono tenute a pubblicare nella pagina iniziale del loro sito un indirizzo di posta elettronica certificata a cui il cittadino possa rivolgersi per qualsiasi richiesta ai sensi del presente codice. Le amministrazioni devono altresì assicurare un servizio che renda noti al pubblico i tempi di risposta, le modalità di lavorazione delle pratiche e i servizi disponibili.
+2\. COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2010, N. 235.
 
-2-quater\. Entro il 31 dicembre 2009 le amministrazioni pubbliche che già dispongono di propri siti devono pubblicare il registro dei processi automatizzati rivolti al pubblico. Tali processi devono essere dotati di appositi strumenti per la verifica a distanza da parte del cittadino dell'avanzamento delle pratiche.
+2-bis\. COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2010, N. 235.
 
-3\. I dati pubblici contenuti nei siti delle pubbliche amministrazioni sono fruibili in rete gratuitamente e senza necessità di autenticazione informatica.
+2-ter\. Le amministrazioni pubbliche pubblicano nei propri siti un indirizzo istituzionale di posta elettronica certificata a cui il cittadino possa rivolgersi per qualsiasi richiesta ai sensi del presente codice. Le amministrazioni devono altresì assicurare un servizio che renda noti al pubblico i tempi di risposta.
+
+2-quater\. Le amministrazioni pubbliche che già dispongono di propri siti devono pubblicare il registro dei processi automatizzati rivolti al pubblico. Tali processi devono essere dotati di appositi strumenti per la verifica a distanza da parte del cittadino dell'avanzamento delle pratiche che lo riguardano.
+
+3\. I dati pubblici contenuti nei siti delle pubbliche amministrazioni sono fruibili in rete gratuitamente e senza necessità di identificazione informatica.
 
 4\. Le pubbliche amministrazioni garantiscono che le informazioni contenute sui siti siano conformi e corrispondenti alle informazioni contenute nei provvedimenti amministrativi originali dei quali si fornisce comunicazione tramite il sito.
 

@@ -1,7 +1,7 @@
 .. _art38:
 
-Art. 38. Pagamenti informatici
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Art. 38. Trasferimenti di fondi
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 

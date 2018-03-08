@@ -15,4 +15,8 @@ Art. 73. Sistema pubblico di connettività (SPC)
 
    b\) economicità nell'utilizzo dei servizi di rete, di interoperabilità e di supporto alla cooperazione applicativa;
 
-   c\) sviluppo del mercato e della concorrenza nel settore delle tecnologie dell'informazione e della comunicazione. (1)  AGGIORNAMENTO (1) Il D.Lgs. 4 aprile 2006, n. 159 ha disposto (con l'art. 31, comma 1) che nel presente decreto legislativo l'espressione "Capo VIII" è sostituita dalla seguente: "Capo IX" e conseguentemente la numerazione degli articoli da 72 a 76 è sostituita dalla numerazione progressiva da 88 a 92.  
+   c\) sviluppo del mercato e della concorrenza nel settore delle tecnologie dell'informazione e della comunicazione. (1)
+
+3-bis\. Le regole tecniche del Sistema pubblico di connettività sono dettate ai sensi dell'articolo 71.
+
+AGGIORNAMENTO (1) Il D.Lgs. 4 aprile 2006, n. 159 ha disposto (con l'art. 31, comma 1) che nel presente decreto legislativo l'espressione "Capo VIII" è sostituita dalla seguente: "Capo IX" e conseguentemente la numerazione degli articoli da 72 a 76 è sostituita dalla numerazione progressiva da 88 a 92.

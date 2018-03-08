@@ -9,7 +9,7 @@ Art. 68. Analisi comparativa delle soluzioni
 
    a\) sviluppo di programmi informatici per conto e a spese dell'amministrazione sulla scorta dei requisiti indicati dalla stessa amministrazione committente;
 
-   b\) riuso di programmi informatici sviluppati per conto e a spese della medesima o di altre amministrazioni;
+   b\) riuso di programmi informatici, o parti di essi, sviluppati per conto e a spese della medesima o di altre amministrazioni;
 
    c\) acquisizione di programmi informatici di tipo proprietario mediante ricorso a licenza d'uso;
 
@@ -17,8 +17,10 @@ Art. 68. Analisi comparativa delle soluzioni
 
    e\) acquisizione mediante combinazione delle modalità di cui alle lettere da a) a d).
 
-2\. Le pubbliche amministrazioni nella predisposizione o nell'acquisizione dei programmi informatici, adottano soluzioni informatiche che assicurino l'interoperabilità e la cooperazione applicativa, secondo quanto previsto dal decreto legislativo 28 febbraio 2005, n. 42, e che consentano la rappresentazione dei dati e documenti in più formati, di cui almeno uno di tipo aperto, salvo che ricorrano peculiari ed eccezionali esigenze.
+2\. Le pubbliche amministrazioni nella predisposizione o nell'acquisizione dei programmi informatici, adottano soluzioni informatiche, quando possibile modulari, basate sui sistemi funzionali resi noti ai sensi dell'articolo 70, che assicurino l'interoperabilità e la cooperazione applicativa e consentano la rappresentazione dei dati e documenti in più formati, di cui almeno uno di tipo aperto, salvo che ricorrano motivate ed eccezionali esigenze.
+
+2-bis\. Le amministrazioni pubbliche comunicano tempestivamente al DigitPA l'adozione delle applicazioni informatiche e delle pratiche tecnologiche, e organizzative,adottate, fornendo ogni utile informazione ai fini della piena conoscibilità delle soluzioni adottate e dei risultati ottenuti, anche per favorire il riuso e la più ampia diffusione delle migliori pratiche.
 
 3\. Per formato dei dati di tipo aperto si intende un formato dati reso pubblico e documentato esaustivamente.
 
-4\. Il CNIPA istruisce ed aggiorna, con periodicità almeno annuale, un repertorio dei formati aperti utilizzabili nelle pubbliche amministrazioni e delle modalità di trasferimento dei formati.
+4\. Il DigitPA istruisce ed aggiorna, con periodicità almeno annuale, un repertorio dei formati aperti utilizzabili nelle pubbliche amministrazioni e delle modalità di trasferimento dei formati.

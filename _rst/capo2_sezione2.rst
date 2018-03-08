@@ -13,6 +13,7 @@ Sezione II. Firme elettroniche e certificatori
    capo2_sezione2_art30.rst
    capo2_sezione2_art31.rst
    capo2_sezione2_art32.rst
+   capo2_sezione2_art32-bis.rst
    capo2_sezione2_art33.rst
    capo2_sezione2_art34.rst
    capo2_sezione2_art35.rst

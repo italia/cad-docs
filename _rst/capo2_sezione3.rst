@@ -1,5 +1,5 @@
-Sezione III. Pagamenti, libri e scritture
------------------------------------------
+Sezione III. Trasferimenti di fondi, libri e scritture
+------------------------------------------------------
 
 
 .. toctree::

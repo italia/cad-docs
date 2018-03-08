@@ -5,10 +5,12 @@ Art. 6. Utilizzo della posta elettronica certificata
 
 
 
-1\. Le pubbliche amministrazioni centrali utilizzano la posta elettronica certificata, di cui al decreto del Presidente della Repubblica 11 febbraio 2005, n. 68, per ogni scambio di documenti e informazioni con i soggetti interessati che ne fanno richiesta e che hanno preventivamente dichiarato il proprio indirizzo di posta elettronica certificata.
+1\. Per le comunicazioni di cui all'articolo 48, comma 1, con i soggetti che hanno preventivamente dichiarato il proprio indirizzo ai sensi della vigente normativa tecnica, le pubbliche amministrazioni utilizzano la posta elettronica certificata. La dichiarazione dell'indirizzo vincola solo il dichiarante e rappresenta espressa accettazione dell'invio, tramite posta elettronica certificata, da parte delle pubbliche amministrazioni, degli atti e dei provvedimenti che lo riguardano.
 
-2\. Le disposizioni di cui al comma 1 si applicano anche alle pubbliche amministrazioni regionali e locali salvo che non sia diversamente stabilito.
+1-bis\. La consultazione degli indirizzi di posta elettronica certificata, di cui agli articoli 16, comma 10, e 16-bis, comma 5, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, e l'estrazione di elenchi dei suddetti indirizzi, da parte delle pubbliche amministrazioni è effettuata sulla base delle regole tecniche emanate da DigitPA, sentito il Garante per la protezione dei dati personali.
 
-2-bis\. Le pubbliche amministrazioni regionali e locali hanno facoltà di assegnare ai cittadini residenti caselle di posta elettronica certificata atte alla trasmissione di documentazione ufficiale.
+2\. COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2010, N. 235.
+
+2-bis\. COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2010, N. 235.
 
 

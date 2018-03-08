@@ -7,7 +7,7 @@ Art. 82. Fornitori del sistema pubblico di connettività
 
 1\. Sono istituiti uno o più elenchi di fornitori a livello nazionale e regionale in attuazione delle finalità di cui all'articolo 77.
 
-2\. I fornitori che ottengono la qualificazione SPC ai sensi dei regolamenti previsti dall'articolo 87, sono inseriti negli elenchi di competenza nazionale o regionale, consultabili in via telematica, esclusivamente ai fini dell'applicazione della disciplina di cui al presente decreto, e tenuti rispettivamente dal CNIPA a livello nazionale e dalla regione di competenza a livello regionale. I fornitori in possesso dei suddetti requisiti sono denominati fornitori qualificati SPC.
+2\. I fornitori che ottengono la qualificazione SPC ai sensi dei regolamenti previsti dall'articolo 87, sono inseriti negli elenchi di competenza nazionale o regionale, consultabili in via telematica, esclusivamente ai fini dell'applicazione della disciplina di cui al presente decreto, e tenuti rispettivamente dal DigitPA a livello nazionale e dalla regione di competenza a livello regionale. I fornitori in possesso dei suddetti requisiti sono denominati fornitori qualificati SPC.
 
 3\. I servizi per i quali è istituito un elenco, ai sensi del comma 1, sono erogati, nell'ambito del SPC, esclusivamente dai soggetti che abbiano ottenuto l'iscrizione nell'elenco di competenza nazionale o regionale.
 

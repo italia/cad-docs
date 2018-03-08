@@ -8,3 +8,6 @@ Sezione I. Documento informatico
    capo2_sezione1_art21.rst
    capo2_sezione1_art22.rst
    capo2_sezione1_art23.rst
+   capo2_sezione1_art23-bis.rst
+   capo2_sezione1_art23-ter.rst
+   capo2_sezione1_art23-quater.rst

@@ -5,7 +5,7 @@ Art. 66. Carta d'identità elettronica e carta nazionale dei servizi
 
 
 
-1\. Le caratteristiche e le modalità per il rilascio, della carta d'identità elettronica, e dell'analogo documento, rilasciato a seguito della denuncia di nascita e prima del compimento del quindicesimo anno di età, sono definite con decreto del Presidente del Consiglio dei Ministri, adottato su proposta del Ministro dell'interno, di concerto con il Ministro per la funzione pubblica, con il Ministro per l'innovazione e le tecnologie e con il Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali e d'intesa con la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281.
+1\. Le caratteristiche e le modalità per il rilascio, della carta d'identità elettronica, e dell'analogo documento, rilasciato a seguito della denuncia di nascita e prima del compimento dell'età prevista dalla legge per il rilascio della carta d'identità elettronica, sono definite con decreto del Presidente del Consiglio dei Ministri, adottato su proposta del Ministro dell'interno, di concerto con il Ministro per la funzione pubblica, con il Ministro per l'innovazione e le tecnologie e con il Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali e d'intesa con la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281.
 
 2\. Le caratteristiche e le modalità per il rilascio, per la diffusione e l'uso della carta nazionale dei servizi sono definite con uno o più regolamenti, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, adottati su proposta congiunta dei Ministri per la funzione pubblica e per l'innovazione e le tecnologie, di concerto con il Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali e d'intesa con la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, nel rispetto dei seguenti principi:
 
@@ -19,13 +19,13 @@ Art. 66. Carta d'identità elettronica e carta nazionale dei servizi
 
    e\) la carta nazionale dei servizi può essere utilizzata anche per i pagamenti informatici tra soggetti privati e pubbliche amministrazioni, secondo quanto previsto dalla normativa vigente.
 
-3\. La carta d'identità elettronica e l'analogo documento, rilasciato a seguito della denuncia di nascita e prima del compimento del quindicesimo anno di età, devono contenere:
+3\. La carta d'identità elettronica e l'analogo documento, rilasciato a seguito della denuncia di nascita e prima del compimento dell'età prevista dalla legge per il rilascio della carta d'identità elettronica, devono contenere:
 
    a\) i dati identificativi della persona;
 
    b\) il codice fiscale.
 
-4\. La carta d'identità elettronica e l'analogo documento, rilasciato a seguito della denuncia di nascita e prima del compimento del quindicesimo anno di età, possono contenere, a richiesta dell'interessato ove si tratti di dati sensibili:
+4\. La carta d'identità elettronica e l'analogo documento, rilasciato a seguito della denuncia di nascita e prima del compimento dell'età prevista dalla legge per il rilascio della carta d'identità elettronica, possono contenere, a richiesta dell'interessato ove si tratti di dati sensibili:
 
    a\) l'indicazione del gruppo sanguigno;
 

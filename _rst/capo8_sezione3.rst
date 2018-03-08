@@ -1,5 +1,5 @@
-Sezione III. Rete internazionale della pubblica amministrazione e compiti del CNIPA
------------------------------------------------------------------------------------
+Sezione III. Rete internazionale della pubblica amministrazione e compiti del DigitPA
+-------------------------------------------------------------------------------------
 
 
 .. toctree::
