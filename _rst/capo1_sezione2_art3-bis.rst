@@ -5,7 +5,7 @@ Art. 3-bis. Domicilio digitale del cittadino
 
 
 
-1\. Al fine di facilitare la comunicazione tra pubbliche amministrazioni e cittadini, è facoltà di ogni cittadino indicare alla pubblica amministrazione, secondo le modalità stabilite al comma 3, un proprio indirizzo di posta elettronica certificata, rilasciato ai sensi dell'articolo 16-bis, comma 5, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2 quale suo domicilio digitale.
+1\. Al fine di facilitare la comunicazione tra pubbliche amministrazioni e cittadini, è facoltà di ogni cittadino indicare alla pubblica amministrazione, secondo le modalità stabilite al comma 3, un proprio indirizzo di posta elettronica certificata quale suo domicilio digitale.
 
 2\. L'indirizzo di cui al comma 1 è inserito nell'Anagrafe nazionale della popolazione residente-ANPR e reso disponibile a tutte le pubbliche amministrazioni e ai gestori o esercenti di pubblici servizi.
 
