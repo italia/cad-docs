@@ -1,7 +1,7 @@
 .. _art52:
 
-Art. 52. Accesso telematico e riutilizzazione dei dati e documenti delle pubbliche amministrazioni
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Art. 52. Accesso telematico e riutilizzo dei dati delle pubbliche amministrazioni
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 
