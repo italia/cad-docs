@@ -13,7 +13,7 @@ Art. 68. Analisi comparativa delle soluzioni
 
    c\) acquisizione di programmi informatici di tipo proprietario mediante ricorso a licenza d'uso;
 
-   d\) acquisizione di programmi informatici a codice sorgente aperto;
+   d\) acquisizione di programmi informatici appartenenti alla categoria del software libero o a codice sorgente aperto;
 
    e\) acquisizione mediante combinazione delle modalità di cui alle lettere da a) a d).
 
