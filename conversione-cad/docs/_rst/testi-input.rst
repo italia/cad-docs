@@ -23,4 +23,4 @@ Il procedimento è laborioso, perché non esiste una funzione API che permetta u
    Il testo del CAD come visualizzato su Normattiva. 
 
 
-Tutte le versioni del CAD ottenute da Normattiva.it sono contenute nella cartella `input` in `questo repo <https://github.com/italia/cad-docs/tree/master/conversione-cad>`_.
+Tutte le versioni del CAD ottenute da Normattiva.it sono contenute nella cartella `input` in `questo repo <https://github.com/italia/cad-docs/tree/strumenti-conversione/conversione-cad>`_.
